@@ -102,3 +102,20 @@ img:hover {
   width: 43.33%;
   padding: 70px;
 }
+
+
+.submit1 {
+  background-color: rgb(172, 176, 177);
+  border: none;
+  color: black;
+  padding: 12px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.submit1:hover {
+  background-color: #2bdefd;
+  color: white;
+}
